@@ -52,6 +52,5 @@ public class Timer : MonoBehaviour
             }
         }
 
-        Debug.Log(timerValue);
     }
 }
